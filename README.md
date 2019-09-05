@@ -15,3 +15,6 @@
 
 #### （五）、集成 druid                                                                                                    
 > 博文地址:https://www.cnblogs.com/yanghj/p/11465513.html
+
+#### （六）、跨域解决方案CORS                                                                                                  
+> 博文地址:https://www.cnblogs.com/yanghj/p/11466342.html
